@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shikha Gupta</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+<h3 align="center">A passionate Full Stack Web Developer & learning MERN Stack at Masai School, Bangalore. Always eager to learn something new and deal with new tasks and challenges. I have done my Bechlor's of Engineering from shahdol madhyaPradesh India.</h3>
 
-
-
-
-- 🌱 I’m currently learning **Html ,Css ,Javascript ,React , Redux , Chakra UI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shikhu51197/shikhu51197.github.io](https://github.com/shikhu51197/shikhu51197.github.io)
 
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/6169788829781744859?tab=rj](https://www.blogger.com/blog/posts/6169788829781744859?tab=rj)
-
-- 💬 Ask me about **Html ,Css ,Javascript ,React , Redux**
+- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/6169788829781744859?tab=rj](https://www.blogger.com/blog/posts/6169788829781744859?tab=rj
 
 - 📫 How to reach me **sg780060@gmail.com**
 
@@ -18,14 +12,14 @@
 
 <h3 align="left"> 🌐 Socials:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/shikhu51197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/shikhu51197" height="30" width="40" /></a>
-<a href="https://twitter.com/https://twitter.com/shikhag61708689" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/shikhag61708689" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shikha-gupta-12a2b5199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shikha-gupta-12a2b5199/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/shikhu51197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/shikhu51197" height="30" width="40" /></a>
+<a href="https://codepen.io/shikhu51197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/shikhu51197" height="30" width="40" /></a>
+<a href="https://twitter.com/shikhag61708689" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/shikhag61708689" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shikha-gupta-12a2b5199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shikha-gupta-12a2b5199/" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/shikhu51197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/shikhu51197" height="30" width="40" /></a>
 <a href="https://instagram.com/shikhu51197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shikhu51197" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/shikha d mentor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shikha d mentor" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/sg780060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sg780060" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sg780060/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sg780060/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sg780060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sg780060" height="30" width="40" /></a>
+<a href="https://leetcode.com/sg780060/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sg780060/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
