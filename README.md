@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shikha Gupta</h1>
 <h3 align="center">A passionate Full Stack Web Developer & learning MERN Stack at Masai School, Bangalore. Always eager to learn something new and deal with new tasks and challenges. I have done my Bechlor's of Engineering from shahdol madhyaPradesh India.</h3>
-
+https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif
 
 - 👨‍💻 All of my projects are available at [https://github.com/shikhu51197/shikhu51197.github.io](Portfolio)
 
