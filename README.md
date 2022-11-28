@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shikha Gupta</h1>
----
+
 
 <h3 align="center">A passionate Full Stack Web Developer & learning MERN Stack at Masai School, Bangalore. Always eager to learn something new and deal with new tasks and challenges. I have done my Bechlor's of Engineering from shahdol madhyaPradesh India.</h3>
-<h5>The Full-Stack Developer designs and maintains websites and systems to serve a company's needs. develop these platforms to function independently Knowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript,REACT , REACT-REDUX) AND writing code which is optimized.
+<h5>maintains websites and systems to serve a company's needs. develop these platforms to function independently Knowledge of multiple front-end languages and libraries (e.g. HTML , CSS, JavaScript,REACT , REACT-REDUX) AND writing code which is optimized.
 
 Learnt coding from Masai School(India's first Skill building School "Driven by Outcomes, Fuelled by Ambitions.")
 
@@ -16,15 +16,15 @@ Learnt coding from Masai School(India's first Skill building School "Driven by O
 
 ---
 
-<img src = "https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif" alt="gif"/>
+<img   src = "https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif" alt="gif" width="100"/>
 
-- 👨‍💻 All of my projects are available at [https://github.com/shikhu51197/shikhu51197.github.io](Portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/shikhu51197/shikhu51197.github.io]([Portfolio](https://github.com/shikhu51197/shikhu51197.github.io))
 
-- 📝 I regularly write articles on ![Bloggger](https://www.blogger.com/blog/posts/6169788829781744859?tab=rj)
+- 📝 I regularly write articles on ![[Bloggger](https://www.blogger.com/blog/posts/6169788829781744859?tab=rj)](https://www.blogger.com/blog/posts/6169788829781744859?tab=rj)
 
 - 📫 How to reach me **sg780060@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/3/my-drive](https://drive.google.com/drive/u/3/my-drive)
+- 📄 Resume [https://drive.google.com/drive/u/3/my-drive](https://drive.google.com/drive/u/3/my-drive)
 
 ---
 
