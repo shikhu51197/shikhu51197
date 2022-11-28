@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Shikha Gupta</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer</h3>
 
 
 
 
-- 🌱 I’m currently learning **html , css ,javascript ,react**
+- 🌱 I’m currently learning **Html ,Css ,Javascript ,React , Redux , Chakra UI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shikhu51197/shikhu51197.github.io](https://github.com/shikhu51197/shikhu51197.github.io)
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/6169788829781744859?tab=rj](https://www.blogger.com/blog/posts/6169788829781744859?tab=rj)
 
-- 💬 Ask me about **html , css ,javascript ,react ,**
+- 💬 Ask me about **Html ,Css ,Javascript ,React , Redux**
 
 - 📫 How to reach me **sg780060@gmail.com**
 
@@ -46,4 +46,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
