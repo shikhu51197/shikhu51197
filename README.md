@@ -1,10 +1,23 @@
 <h1 align="center">Hi 👋, I'm Shikha Gupta</h1>
 <h3 align="center">A passionate Full Stack Web Developer & learning MERN Stack at Masai School, Bangalore. Always eager to learn something new and deal with new tasks and challenges. I have done my Bechlor's of Engineering from shahdol madhyaPradesh India.</h3>
-<img src = "https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" alt="gif"/>
+<h5>The Full-Stack Developer designs and maintains websites and systems to serve a company's needs. develop these platforms to function independently Knowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript,REACT , REACT-REDUX) AND writing code which is optimized.
+
+Learnt coding from Masai School(India's first Skill building School "Driven by Outcomes, Fuelled by Ambitions.")
+
+1200+ Hours Practical Coding
+100+ Hours Soft Skill Development
+80+ Mini Projects
+300 Hours Data Structures & Algorithms
+100+ Hours Math & Logic
+10+ Projects & Hackathons
+</h5>
+
+
+<img src = "https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif" alt="gif"/>
 
 - 👨‍💻 All of my projects are available at [https://github.com/shikhu51197/shikhu51197.github.io](Portfolio)
 
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/6169788829781744859?tab=rj](https://www.blogger.com/blog/posts/6169788829781744859?tab=rj)
+- 📝 I regularly write articles on ![Bloggger](https://www.blogger.com/blog/posts/6169788829781744859?tab=rj)
 
 - 📫 How to reach me **sg780060@gmail.com**
 
