@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Full Stack Web Developer & learning MERN Stack at Masai School, Bangalore. Always eager to learn something new and deal with new tasks and challenges. I have done my Bechlor's of Engineering from shahdol madhyaPradesh India.</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/shikhu51197/shikhu51197.github.io](https://github.com/shikhu51197/shikhu51197.github.io)
+- 👨‍💻 All of my projects are available at [https://github.com/shikhu51197/shikhu51197.github.io](Portfolio)
 
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/6169788829781744859?tab=rj](https://www.blogger.com/blog/posts/6169788829781744859?tab=rj
+- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/6169788829781744859?tab=rj](https://www.blogger.com/blog/posts/6169788829781744859?tab=rj)
 
 - 📫 How to reach me **sg780060@gmail.com**
 
