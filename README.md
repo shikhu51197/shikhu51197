@@ -4,17 +4,17 @@
 <h3 align="center">A passionate Full Stack Web Developer & learning MERN Stack at Masai School, Bangalore. Always eager to learn something new and deal with new tasks and challenges. I have done my Bechlor's of Engineering from shahdol madhyaPradesh India.</h3>
 
 <h5>i Learnt coding from Masai School(India's first Skill building School "Driven by Outcomes, Fuelled by Ambitions.")
-1200+ Hours Practical Coding
-100+ Hours Soft Skill Development
-80+ Mini Projects
-300 Hours Data Structures & Algorithms
-100+ Hours Math & Logic
+1200+ Hours Practical Coding ,
+100+ Hours Soft Skill Development ,
+80+ Mini Projects ,
+300 Hours Data Structures & Algorithms ,
+100+ Hours Math & Logic ,
 10+ Projects & Hackathon 
 </h5>
 
 ---
 
-<img   src = "https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif" alt="gif" width="100%"/>
+<img   src = "https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif" alt="gif" width="100%" "height="400px"/>
 
 - 👨‍💻 All of my projects are available at [https://github.com/shikhu51197/shikhu51197.github.io](https://github.com/shikhu51197/shikhu51197.github.io)
 
@@ -61,4 +61,4 @@
 
 
 
-
+***********************************************************************************************************************************************************************
