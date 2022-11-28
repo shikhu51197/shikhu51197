@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **sg780060@gmail.com**
 
-- 📄 Resume [[https://drive.google.com/drive/u/3/my-drive](https://drive.google.com/file/d/1Ft3zyA6KHRmaUC3C9FAr6p_9tWgwrQJi/view?usp=share_link)](https://drive.google.com/file/d/1Ft3zyA6KHRmaUC3C9FAr6p_9tWgwrQJi/view?usp=share_link)
+- 📄 Resume [https://drive.google.com/drive/u/3/my-drive](https://drive.google.com/drive/u/3/my-drive)
 
 ---
 
