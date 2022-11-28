@@ -2,29 +2,27 @@
 
 
 <h3 align="center">A passionate Full Stack Web Developer & learning MERN Stack at Masai School, Bangalore. Always eager to learn something new and deal with new tasks and challenges. I have done my Bechlor's of Engineering from shahdol madhyaPradesh India.</h3>
-<h5>maintains websites and systems to serve a company's needs. develop these platforms to function independently Knowledge of multiple front-end languages and libraries (e.g. HTML , CSS, JavaScript,REACT , REACT-REDUX) AND writing code which is optimized.
 
-Learnt coding from Masai School(India's first Skill building School "Driven by Outcomes, Fuelled by Ambitions.")
-
+<h5>i Learnt coding from Masai School(India's first Skill building School "Driven by Outcomes, Fuelled by Ambitions.")
 1200+ Hours Practical Coding
 100+ Hours Soft Skill Development
 80+ Mini Projects
 300 Hours Data Structures & Algorithms
 100+ Hours Math & Logic
-10+ Projects & Hackathons
+10+ Projects & Hackathon 
 </h5>
 
 ---
 
-<img   src = "https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif" alt="gif" width="100"/>
+<img   src = "https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif" alt="gif" width="100%"/>
 
-- 👨‍💻 All of my projects are available at [https://github.com/shikhu51197/shikhu51197.github.io]([Portfolio](https://github.com/shikhu51197/shikhu51197.github.io))
+- 👨‍💻 All of my projects are available at [https://github.com/shikhu51197/shikhu51197.github.io](https://github.com/shikhu51197/shikhu51197.github.io)
 
-- 📝 I regularly write articles on ![[Bloggger](https://www.blogger.com/blog/posts/6169788829781744859?tab=rj)](https://www.blogger.com/blog/posts/6169788829781744859?tab=rj)
+- 📝 I regularly write articles on [(https://www.blogger.com/blog/posts/6169788829781744859?tab=rj)](https://www.blogger.com/blog/posts/6169788829781744859?tab=rj)
 
 - 📫 How to reach me **sg780060@gmail.com**
 
-- 📄 Resume [https://drive.google.com/drive/u/3/my-drive](https://drive.google.com/drive/u/3/my-drive)
+- 📄 Resume [[https://drive.google.com/drive/u/3/my-drive](https://drive.google.com/file/d/1Ft3zyA6KHRmaUC3C9FAr6p_9tWgwrQJi/view?usp=share_link)]([https://drive.google.com/drive/u/3/my-drive](https://drive.google.com/file/d/1Ft3zyA6KHRmaUC3C9FAr6p_9tWgwrQJi/view?usp=share_link))
 
 ---
 
