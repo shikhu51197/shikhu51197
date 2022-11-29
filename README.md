@@ -16,13 +16,13 @@
 
 <img   src = "https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif" alt="gif" width="100%" height="400px"/>
 
-- 👨‍💻 All of my projects are available at [https://github.com/shikhu51197/shikhu51197.github.io](https://github.com/shikhu51197/shikhu51197.github.io)
+- 👨‍💻 All of my projects are available at <a href ="https://github.com/shikhu51197/shikhu51197.github.io" >Portfolio</a>
 
-- 📝 I regularly write articles on [(https://www.blogger.com/blog/posts/6169788829781744859?tab=rj)](https://www.blogger.com/blog/posts/6169788829781744859?tab=rj)
+- 📝 I regularly write articles on <a href="https://www.blogger.com/blog/posts/6169788829781744859?tab=rj" >Blogger</a>
 
 - 📫 How to reach me **sg780060@gmail.com**
 
-- 📄 <a href="https://drive.google.com/file/d/1Ft3zyA6KHRmaUC3C9FAr6p_9tWgwrQJi/view?usp=share_link" target="_blank">Resume</a>
+- 📄Want to know more about my Experience <a href="https://drive.google.com/file/d/1Ft3zyA6KHRmaUC3C9FAr6p_9tWgwrQJi/view?usp=share_link">Resume</a>
 
 ---
 
