@@ -11,6 +11,7 @@
 
 ---
 
+<h2>🅰️bout Me</h2>
 <h3 align="center">A passionate & Enthusiastic 🤓 Full Stack Web Developer & learning MERN Stack at Masai School, Bangalore. Always eager to learn something new and deal with new tasks and challenges. I have done my Bechlor's of Engineering from Shahdol , MadhyaPradesh , India.</h3>
 
 <h4> i Learnt Full Stack Web Development from Masai School🏫(India's first Skill building School "Driven by Outcomes, Fuelled by Ambitions.")</h4>
@@ -24,7 +25,7 @@
 </h5>
 
 ---
-<img   src = "https://media3.giphy.com/media/4KzpjLvJjJknJ5Xuak/giphy.gif?cid=ecf05e475z1fyhery2jovsy9a4v3tf7nfree6x6sdistga6a&rid=giphy.gif&ct=g" alt="gif"  align="right"/>
+<img   src = "https://media3.giphy.com/media/4KzpjLvJjJknJ5Xuak/giphy.gif?cid=ecf05e475z1fyhery2jovsy9a4v3tf7nfree6x6sdistga6a&rid=giphy.gif&ct=g" alt="gif" height="200" width="40%" align="right"/>
 
 - 👨‍💻 All of my projects are available at <a href ="https://github.com/shikhu51197/shikhu51197.github.io" >Portfolio</a>
 
