@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shikha Gupta</h1>
 
 
-<h3 align="center">A passionate Full Stack Web Developer & learning MERN Stack at Masai School, Bangalore. Always eager to learn something new and deal with new tasks and challenges. I have done my Bechlor's of Engineering from shahdol madhyaPradesh India.</h3>
+<h3 align="center">A passionate & Enthusiastic Full Stack Web Developer & learning MERN Stack at Masai School, Bangalore. Always eager to learn something new and deal with new tasks and challenges. I have done my Bechlor's of Engineering from shahdol madhyaPradesh India.</h3>
 
 <h5>i Learnt coding from Masai School(India's first Skill building School "Driven by Outcomes, Fuelled by Ambitions.")
+
+![image](https://user-images.githubusercontent.com/107506646/204566450-042ba2e7-a5f8-4625-b181-00753e599eb3.png)
 1200+ Hours Practical Coding ,
 100+ Hours Soft Skill Development ,
 80+ Mini Projects ,
