@@ -24,7 +24,7 @@
 </h5>
 
 ---
-<img   src = "https://media3.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47oh3f7tp7kiaywg1pvd4q03zlx15dnkrg5dw9v6l0&rid=giphy.gif&ct=g" alt="gif" width="100%" height="350px" margin-left="20%" align="center"/>
+<img   src = "https://media3.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47oh3f7tp7kiaywg1pvd4q03zlx15dnkrg5dw9v6l0&rid=giphy.gif&ct=g" alt="gif"  align="center"/>
 
 - 👨‍💻 All of my projects are available at <a href ="https://github.com/shikhu51197/shikhu51197.github.io" >Portfolio</a>
 
