@@ -24,7 +24,7 @@
 </h5>
 
 ---
-<img   src = "https://www.pluralsight.com/" alt="gif"  align="right"/>
+<img   src = "https://media3.giphy.com/media/4KzpjLvJjJknJ5Xuak/giphy.gif?cid=ecf05e475z1fyhery2jovsy9a4v3tf7nfree6x6sdistga6a&rid=giphy.gif&ct=g" alt="gif"  align="right"/>
 
 - 👨‍💻 All of my projects are available at <a href ="https://github.com/shikhu51197/shikhu51197.github.io" >Portfolio</a>
 
