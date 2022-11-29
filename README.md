@@ -3,8 +3,8 @@
 
 <h3 align="center">A passionate & Enthusiastic 🤓 Full Stack Web Developer & learning MERN Stack at Masai School, Bangalore. Always eager to learn something new and deal with new tasks and challenges. I have done my Bechlor's of Engineering from shahdol madhyaPradesh India.</h3>
 
-<h5>i Learnt coding from Masai School(India's first Skill building School "Driven by Outcomes, Fuelled by Ambitions.")
-
+<h4> i Learnt coding from Masai School🏫(India's first Skill building School "Driven by Outcomes, Fuelled by Ambitions.")</h4>
+<h5>
 💻 1200+ Hours Practical Coding ,
 ⌛100+ Hours Soft Skill Development ,
 🌟80+ Mini Projects ,
@@ -60,7 +60,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 
-
-
-                                                                       🙏🙏🙏
+                                                                      
 ***********************************************************************************************************************************************************************
