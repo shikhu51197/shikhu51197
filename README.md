@@ -24,8 +24,7 @@
 </h5>
 
 ---
-
-<img   src = "https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif" alt="gif" width="50%" height="300px" align="right"/>
+<img   src = "https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif" alt="gif" width="50%" height="250px" align="left"/>
 
 - 👨‍💻 All of my projects are available at <a href ="https://github.com/shikhu51197/shikhu51197.github.io" >Portfolio</a>
 
