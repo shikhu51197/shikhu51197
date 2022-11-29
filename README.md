@@ -1,4 +1,4 @@
-<img   src = "https://tse3.mm.bing.net/th?id=OIP.AnQgdhLVFfSQEsh4A6nmMQHaFj&pid=Api&P=0" alt="gif" width="100%" height="400px"/>
+<img   src = "![image](https://user-images.githubusercontent.com/107506646/204586751-c4beadc7-ab76-4c01-aa66-a046ef22c11b.png)" alt="gif" width="100%" height="400px"/>
 
 
 <h1 align="center">Hi 👋, I'm Shikha Gupta</h1>
