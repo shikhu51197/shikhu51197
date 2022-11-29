@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
----
+
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -74,8 +74,8 @@
 ---
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50%" height="65px">
-</p>	
+<h2 align="center">
+ THANK YOU 🙏
+</h2>	
                                                                       
 ***********************************************************************************************************************************************************************
