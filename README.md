@@ -6,7 +6,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi!👋I am Shikha Gupta; I am a Full-stack%20web%20developer 👨🏻‍💻;🤓 Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=1000&height=40&color=FFFFFF&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hey!👋I am Shikha Gupta; I am a Full-stack%20web%20developer 👨🏻‍💻;🤓 Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=1000&height=40&color=FFFFFF&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 ---
@@ -64,6 +64,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=shikhu51197&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shikhu51197&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shikhu51197&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shikhu51197&theme=2077" width="100%" />
+<hr/>
+<a href="https://github.com/shikhu51197/github-readme-activity-graph"><img alt="shikhu51197 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shikhu51197&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area_color=39d5e3&area=true" /></a>
+
+
 ---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shikhu51197&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
