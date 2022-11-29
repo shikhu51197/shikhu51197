@@ -24,10 +24,8 @@
 </h5>
 
 ---
-<div align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" ><img src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif" width="80%" data-animated-image="" data-canonical-src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" style="max-width: 100%;"></a>
-</div>
-<img   src = "https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif" alt="gif" width="80%" height="200px" align="center"/>
+
+<img   src = "https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif" alt="gif" width="50%" height="300px" align="right"/>
 
 - 👨‍💻 All of my projects are available at <a href ="https://github.com/shikhu51197/shikhu51197.github.io" >Portfolio</a>
 
