@@ -29,7 +29,7 @@
 - 📄Want to know more about my Experience <a href="https://drive.google.com/file/d/1Ft3zyA6KHRmaUC3C9FAr6p_9tWgwrQJi/view?usp=share_link">Resume</a>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=FFC0CB&background=FFFFFF&width=439&height=80&lines=Learning+React.js;Learned+React.js;Learned+javascript;Learned+Html;Learned+css)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=FFC0CB&background=000000&width=439&height=80&lines=Learning+React.js;Learned+React.js;Learned+javascript;Learned+Html;Learned+css)](https://git.io/typing-svg)
 
 
 
