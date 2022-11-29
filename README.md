@@ -2,12 +2,15 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+---
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi!👋I am Shikha Gupta; I am a Full-stack%20web%20developer 👨🏻‍💻;🤓 Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=1000&height=40&color=FFFFFF&vCenter=true&size=22&pause=1000"></a>
 </p>
+
 ---
+
 <h3 align="center">A passionate & Enthusiastic 🤓 Full Stack Web Developer & learning MERN Stack at Masai School, Bangalore. Always eager to learn something new and deal with new tasks and challenges. I have done my Bechlor's of Engineering from Shahdol , MadhyaPradesh , India.</h3>
 
 <h4> i Learnt Full Stack Web Development from Masai School🏫(India's first Skill building School "Driven by Outcomes, Fuelled by Ambitions.")</h4>
@@ -33,7 +36,7 @@
 - 📄Want to know more about my Experience <a href="https://drive.google.com/file/d/1Ft3zyA6KHRmaUC3C9FAr6p_9tWgwrQJi/view?usp=share_link">Resume</a>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=FFC0CB&width=200&height=80&lines=Learning+React.js💻;Learned+React.js💻;Learned+javascript💻;Learned+Html💻;Learned+css💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=FFC0CB&width=400&height=100&lines=Learning+React.js💻;Learned+React.js💻;Learned+javascript💻;Learned+Html💻;Learned+css💻)](https://git.io/typing-svg)
 
 
 
