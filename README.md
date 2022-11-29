@@ -27,7 +27,7 @@
 ---
 
 
-<h3 align="left"> 🌐 Socials:</h3>
+<h3 align="left">🌐 Socials:</h3>
 <p align="left">
 <a href="https://codepen.io/shikhu51197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/shikhu51197" height="30" width="40" /></a>
 <a href="https://twitter.com/shikhag61708689" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/shikhag61708689" height="30" width="40" /></a>
