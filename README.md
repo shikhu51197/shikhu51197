@@ -39,9 +39,9 @@
 <a href="https://codesandbox.io/u/shikhu51197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/shikhu51197" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/shikha d mentor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shikha d mentor" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https/sg780060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sg780060" height="30" width="40" /></a>
-<a href="https://leetcode.com/sg780060/" target="blank">![LEETCODE](https://img.shields.io/badge/leetcode3-%231572B6.svg?style=plastic&logo=leetcode3&logoColor=white)</a>
+<a href="https://leetcode.com/sg780060/" target="blank">![LEETCODE](https://leetcode.com/sg780060/https://img.shields.io/badge/leetcode3-%231572B6.svg?style=plastic&logo=leetcode3&logoColor=white)</a>
 </button>
-
+![LEETCODE](https://leetcode.com/sg780060/https://img.shields.io/badge/leetcode3-%231572B6.svg?style=plastic&logo=leetcode3&logoColor=white)
 ---
 [![](https://visitcount.itsvg.in/api?id=shikhu51197&icon=5&color=11)](https://visitcount.itsvg.in)
 
