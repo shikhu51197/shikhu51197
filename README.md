@@ -1,4 +1,4 @@
- ![image](https://user-images.githubusercontent.com/107506646/204586751-c4beadc7-ab76-4c01-aa66-a046ef22c11b.png)  
+ 
 
 
 <h1 align="center">Hi 👋, I'm Shikha Gupta</h1>
