@@ -6,7 +6,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hey!👋I am Shikha Gupta; I am a Full-stack%20web%20developer 👨🏻‍💻;🤓 Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=1000&height=40&color=63666A.&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hey!👋I am Shikha Gupta; I am a Full-stack%20web%20developer 👨🏻‍💻;🤓 Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=1000&height=40&color=052CA3.&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 ---
@@ -38,7 +38,7 @@
 - 📄Want to know more about my Experience <a href="https://drive.google.com/file/d/1Ft3zyA6KHRmaUC3C9FAr6p_9tWgwrQJi/view?usp=share_link">Resume</a>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=FFC0CB&width=400&height=100&lines=Learning+Redux💻;Learned+React.js💻;Learned+javascript💻;Learned+Html💻;Learned+css💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=F6BE00&width=400&height=100&lines=Learning+Redux💻;Learned+React.js💻;Learned+javascript💻;Learned+Html💻;Learned+css💻)](https://git.io/typing-svg)
 
 
 
