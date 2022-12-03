@@ -32,7 +32,7 @@
 
 - 👨‍💻 All of my projects are available at <a href ="https://github.com/shikhu51197/shikhu51197.github.io" >Portfolio</a>
 
-- 📝 I regularly write articles on <a href="https://www.blogger.com/blog/posts/6169788829781744859?tab=rj" >Blogger</a>
+- 📝 I regularly write articles on <a href="https://wwwartificial-intelligence.blogspot.com/" >Blogger</a>
 
 - 📫 How to reach me **sg780060@gmail.com**
 
