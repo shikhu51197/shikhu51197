@@ -39,7 +39,7 @@
 - 📄Want to know more about my Experience <a href="https://drive.google.com/file/d/1Ft3zyA6KHRmaUC3C9FAr6p_9tWgwrQJi/view?usp=share_link">Resume</a>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=F6BE00&width=600&height=100&lines=Learned+Frontend💻;Learned+Backend💻;Learned+Hosting💻;Learned+DataBase💻;Learned+Frameworks💻;Learned+Libraries💻 ;Learned+Designs💻;Learned+Platforms💻;AND+SO+ON....💻 )](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=100&color=F6BE00&width=600&height=100&lines=Learned+Frontend💻;Learned+Backend💻;Learned+Hosting💻;Learned+DataBase💻;Learned+Frameworks💻;Learned+Libraries💻;Learned+Designs💻;Learned+Platforms💻;AND+SO+ON 💻)](https://git.io/typing-svg)
 
 
 
