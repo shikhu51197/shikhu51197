@@ -30,7 +30,7 @@
 ![](https://media.tenor.com/BlDlOlCeR34AAAAC/web-design-company-net.gif)
 
 
-- 👨‍💻 All of my projects are available at <a href ="https://github.com/shikhu51197/shikhu51197.github.io" >Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href ="https://shikhu51197.github.io/" >Portfolio</a>
 
 - 📝 I regularly write articles on <a href="https://wwwartificial-intelligence.blogspot.com/" >Blogger</a>
 
