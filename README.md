@@ -64,7 +64,7 @@
 ![cypress](https://img.shields.io/badge/cypress-%234ea94b.svg?style=plastic&logo=cypress&logoColor=black)   ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-%23007ACC.svg?style=plastic&logo=visualstudiocode&logoColor=white) ![Github](https://img.shields.io/badge/Github-%23000000.svg?style=plastic&logo=github&logoColor=white)
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shikhu51197&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=shikhu51197&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&count_public=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shikhu51197&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shikhu51197&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br></br>
