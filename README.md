@@ -45,7 +45,6 @@
 
 ---
 <h3>⚡Hobbies and interests :</h3>
---
 
 1. Always intrested in Coding & new learnings 💫.
 
