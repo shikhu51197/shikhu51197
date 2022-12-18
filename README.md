@@ -44,14 +44,14 @@
 
 
 ---
-⚡Hobbies and interests :
+<h3>⚡Hobbies and interests :</h3>
+--
 
----
-Always intrested in Coding & new learning 💫.
+1. Always intrested in Coding & new learnings 💫.
 
-love to listen Music🎧.
+2. love to listen Music🎧.
 
-Bealive in interating with new people🫱🫲& learn from their experience .
+3. Bealive in interating with new people🫱🫲& try to learn from their experience .
 
 ---
 
