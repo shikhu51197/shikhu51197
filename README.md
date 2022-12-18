@@ -45,9 +45,12 @@
 
 ---
 ⚡Hobbies and interests :
+
 ---
 Always intrested in Coding & new learning 💫.
+
 love to listen Music🎧.
+
 Bealive in interating with new people🫱🫲& learn from their experience .
 
 ---
