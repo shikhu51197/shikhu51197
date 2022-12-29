@@ -26,7 +26,6 @@
 
 ---
 
-
 ![](https://media.tenor.com/BlDlOlCeR34AAAAC/web-design-company-net.gif)
 
 
@@ -41,7 +40,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=F6BE00&width=600&height=100&lines=Learned+Frontend💻;Learned+Backend💻;Learned+Hosting💻;Learned+DataBase💻;Learned+Frameworks💻;Learned+Libraries💻;Learned+Designs💻;Learned+Platforms💻)](https://git.io/typing-svg)
 
+---
 
+<h3 align="left">🌐 Socials:</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikha-gupta-12a2b5199) [![Leetcode](https://img.shields.io/badge/-leetcode-FE7A16?style=plastic&logo=leetcode&logoColor=white)](https://leetcode.com/sg780060) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/shikhag61708689) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plastic&logo=YouTube&logoColor=white)](https://youtube.com/@shikhadmentor8552) [![Codepen](https://img.shields.io/badge/codepen-%230077B5.svg?style=plastic&logo=codepen&logoColor=white)](https://codepen.io/shikhu51197) [![Codesandbox](https://img.shields.io/badge/-codesandbox-FE7A16?style=plastic&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/shikhu51197) [![Hackerrank](https://img.shields.io/badge/hackerrank-%231DA1F2.svg?style=plastic&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sg780060?hr_r=1)
 
 ---
 <h3>⚡Hobbies and interests :</h3>
@@ -51,20 +54,6 @@
 2. love to listen Music🎧.
 
 3. Bealive in interating with new people🫱🫲& try to learn from their experience .
-
----
-
-<h3 align="left">🌐 Socials:</h3>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikha-gupta-12a2b5199) [![Leetcode](https://img.shields.io/badge/-leetcode-FE7A16?style=plastic&logo=leetcode&logoColor=white)](https://leetcode.com/sg780060) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/shikhag61708689) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plastic&logo=YouTube&logoColor=white)](https://youtube.com/@shikhadmentor8552) [![Codepen](https://img.shields.io/badge/codepen-%230077B5.svg?style=plastic&logo=codepen&logoColor=white)](https://codepen.io/shikhu51197) [![Codesandbox](https://img.shields.io/badge/-codesandbox-FE7A16?style=plastic&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/shikhu51197) [![Hackerrank](https://img.shields.io/badge/hackerrank-%231DA1F2.svg?style=plastic&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sg780060?hr_r=1) 
-
-
----
-
-
-[![](https://visitcount.itsvg.in/api?id=shikhu51197&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 ---
 
 # 💻 Tech Stack:
