@@ -19,7 +19,7 @@
 💻 1200+ Hours Practical Coding ,
 ⌛100+ Hours Soft Skill Development ,
 🌟80+ Mini Projects ,
-📚300 Hours Data Structures & Algorithms ,
+📚300+ Hours Data Structures & Algorithms ,
 ⏰100+ Hours Math & Logic ,
 🧾10+ Projects & Hackathon 
 </h5>
