@@ -12,7 +12,7 @@
 ---
 
 <h2>❤✨About Me</h2>
-<h3 align="center">A passionate & Enthusiastic 🤓 Full Stack Web Developer & learning MERN Stack at Masai School, Bangalore. Always eager to learn something new and deal with new tasks and challenges. I have done my Bechlor's of Engineering from Shahdol , MadhyaPradesh , India.</h3>
+<h3 align="center">A passionate & Enthusiastic 🤓 Full Stack Web Developer & learning MERN Stack at Masai School, Bangalore. Always eager to learn something new and deal with new tasks and challenges. I have done my Bechlor's of Engineering in Mechanical Engineering from Shahdol , MadhyaPradesh , India.</h3>
 
 <h4> I Learnt Full Stack Web Development from Masai School🏫(India's first Skill building School "Driven by Outcomes, Fuelled by Ambitions.")</h4>
 <h5>
