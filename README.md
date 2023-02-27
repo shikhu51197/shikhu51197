@@ -1,8 +1,9 @@
 
 <div id="header" align="center">
-  <img src="https://camo.githubusercontent.com/40c6c5d9ac1c62d554de0b9b7be4beadb207816b0e42f8dc2fed05b9e7561f70/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a7164415731546a434e353768316c6275757a766368672e676966.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-[![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a7164415731546a434e353768316c6275757a766368672e676966](https://user-images.githubusercontent.com/107506646/221662975-31a1c719-a1f7-4789-b053-28b65a5ebe9a.gif)]
+
+![image](https://user-images.githubusercontent.com/107506646/221663712-814965ad-d3d3-47e9-af63-244b8eef74b3.gif)
 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
