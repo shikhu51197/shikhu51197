@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/107506646/221663712-814965ad-d3d3-47e9-af63-244b8eef74b3.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/107506646/221663712-814965ad-d3d3-47e9-af63-244b8eef74b3.gif" width="200"/>
 </div>
 
 
@@ -51,11 +51,6 @@
 
 ---
 <h3>⚡Hobbies and interests :</h3>
-
-
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/107506646/221663712-814965ad-d3d3-47e9-af63-244b8eef74b3.gif" width="400"/>
-</div>
 
 1. Always intrested in Coding & new learnings 💫.
 
