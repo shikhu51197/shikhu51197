@@ -1,9 +1,9 @@
 
 <div id="header" align="center" width="200">
 
-<img src ="https://ouch-cdn2.icons8.com/asgNFQHf8Ptc9aaAw8bNylX8cebtOQ_sVQ_fJIC8B8U/rs:fit:368:435/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvODcz/LzEwM2Y3MTExLThj/MjYtNDE5Ni04NGE4/LTc1NmYxNTg4MjEy/Zi5wbmc.png"/>
+<img src ="https://ouch-cdn2.icons8.com/RvRNYhp4R3LJjkx0AARG6NnU9S2FZwERDdL6Q3r3w2c/rs:fit:368:244/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvODEv/ZmU5Y2Q5OTgtZDAz/My00MTI1LTliNTQt/MmRlNDBjMDIyZDQ5/LnBuZw.png"/>
 
-![casual-life-3d-girl-sitting-on-stool-with-laptop-1](https://github.com/shikhu51197/shikhu51197/assets/107506646/75a667bc-f79e-45bb-a036-b7bc2a820097)
+
 </div>
 
 <p align="center">
