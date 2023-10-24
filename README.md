@@ -1,4 +1,4 @@
-https://icons8.com/illustrations/illustration/colors-artificial-intelligence-and-cloud-computing--animated
+
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/107506646/221663712-814965ad-d3d3-47e9-af63-244b8eef74b3.gif" width="200"/>
 </div>
@@ -8,6 +8,8 @@ https://icons8.com/illustrations/illustration/colors-artificial-intelligence-and
   <i><a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hey!👋I am Shikha Gupta👩‍🎓; I am a 🎓Full-stack%20web%20developer 👨🏻‍💻; I love❤️ to do code👩‍💻 in ®️e🅰️©️t💻 ;🤓 Curious%20to%20learn%20new%20things✨ !&font=Arial%20Code&center=true&width=1000&height=40&font-size=50%&family=Montserrat:wght@300&color=f35f0e.&vCenter=true&size=22&pause=1000"></a></i>
 </p>
+
+![colors-artificial-intelligence-and-cloud-computing](https://github.com/shikhu51197/shikhu51197/assets/107506646/811af787-59f9-4280-a28b-b643435e0653)
 
 ---
 
