@@ -17,7 +17,7 @@
 
 <h2>❤✨About Me</h2>
 <h3>
-    <i>- I'm a full-stack web developer skilled in the MERN stack who focuses on writing clean, elegant, and efficient code.</i>
+    <i>- I'm a passionate and enthusiastic 🤓  full-stack web developer skilled in the MERN stack who focuses on writing clean, elegant, and efficient code.</i>
 </h3>
 
 <h3>
@@ -25,7 +25,7 @@
 </h3>
 
 <h4 align="left">
-  A passionate and enthusiastic 🤓 Full Stack Web Developer & learned MERN Stack at Masai School, Bangalore. Always eager to learn something new and deal with new tasks and challenges. I have done my Bachelor of Engineering in Mechanical Engineering from Shahdol, Madhya Pradesh, India.</h4>
+Always eager to learn something new and deal with new tasks and challenges. I have done my Bachelor of Engineering in Mechanical Engineering from Shahdol, Madhya Pradesh, India.</h4>
 
 <h4> I learned Full Stack Web Development from Masai School🏫(India's first Skill building School "Driven by Outcomes, Fuelled by Ambitions.")</h4>
 
@@ -76,7 +76,7 @@
 
 <p>
     <a title="sg780060@gmail.com" href="mailto:sg780060@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-ff2052style=plastic&logo=gmail&logoColor=white" alt="sg780060@gmail.com" />
+        <img align="center" src="https://img.shields.io/badge/Gmail-fbceb1?style=plastic&logo=gmail&logoColor=ff2052" alt="sg780060@gmail.com" />
     </a>
 </p>
 
