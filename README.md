@@ -15,7 +15,16 @@
 ---
 
 <h2>❤✨About Me</h2>
-<h3 align="center">A passionate & Enthusiastic 🤓 Full Stack Web Developer & learning MERN Stack at Masai School, Bangalore. Always eager to learn something new and deal with new tasks and challenges. I have done my Bechlor's of Engineering in Mechanical Engineering from Shahdol, Madhya Pradesh, India.</h3>
+<h3>
+    <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
+</h3>
+
+<h3>
+    <i>- Currently working at SkillTank as a Full Stack Web developer </i>
+</h3>
+<br>
+<h3 align="center">
+  A passionate & Enthusiastic 🤓 Full Stack Web Developer & learned MERN Stack at Masai School, Bangalore. Always eager to learn something new and deal with new tasks and challenges. I have done my Bechlor's of Engineering in Mechanical Engineering from Shahdol, Madhya Pradesh, India.</h3>
 
 <h4> I learned Full Stack Web Development from Masai School🏫(India's first Skill building School "Driven by Outcomes, Fuelled by Ambitions.")</h4>
 <h5>
@@ -38,10 +47,9 @@
 
 
 
-| Resume | Github                                                                                                                                   | Linkedin                                                                                                                                                            | Portfolio                                                                                                                                    | Linkedin                                                                                                                                                            | Portfolio                                                                                                                                    |
+| Resume | Github                                                                                                                                   | Linkedin                                                                                                                                                            | Portfolio                                                                                                                                    | Blogger                                                                                                                                                           | Medium                                                                                                                                    |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Resume](https://img.shields.io/badge/my_Resume-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/1YE62u2ChjmlR-EKeqZ75UvFMg_KcY86T/view?usp=sharing) | [![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shikhu51197/)| [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikha-gupta-12a2b5199) |[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shikhu51197.github.io/) |  
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikha-gupta-12a2b5199) |[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shikhu51197.github.io/) |  
+| [![Resume](https://img.shields.io/badge/my_Resume-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/1YE62u2ChjmlR-EKeqZ75UvFMg_KcY86T/view?usp=sharing) | [![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shikhu51197/)| [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikha-gupta-12a2b5199) |[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ionic&logoColor=white)](https://shikhu51197.github.io/) |[![Blogger](https://img.shields.io/badge/Blogger-0A66C2?style=for-the-badge&logo=Blogger&logoColor=white)](https://wwwartificial-intelligence.blogspot.com/) |[![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://medium.com/@sg780060) |  
 
 
 - 👨‍💻 All of my projects are available at <a href ="https://shikhu51197.github.io/" >Portfolio</a>
@@ -57,11 +65,11 @@
 
 
 <p align="left">
-    <a href="https://github.com/m-sehrawat">
-        <img src="https://komarev.com/ghpvc/?username=m-sehrawat&label=Profile%20views&color=0e75b6&style=flat" alt="m-sehrawat" />
+    <a href="https://github.com/shikhu51197">
+        <img src="https://komarev.com/ghpvc/?username=shikhu51197&label=Profile%20views&color=0e75b6&style=flat" alt="shikhu51197" />
     </a>
-    <a href="https://github.com/m-sehrawat?tab=followers">
-        <img src="https://img.shields.io/github/followers/m-sehrawat?label=Followers&style=social" alt="followers-count">
+    <a href="https://github.com/shikhu51197?tab=followers">
+        <img src="https://img.shields.io/github/followers/shikhu51197?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
 <br>
@@ -70,7 +78,9 @@
 
 <h3 align="left">🌐 Socials:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikha-gupta-12a2b5199) [![Leetcode](https://img.shields.io/badge/-leetcode-FE7A16?style=plastic&logo=leetcode&logoColor=white)](https://leetcode.com/sg780060) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/shikhag61708689) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plastic&logo=YouTube&logoColor=white)](https://youtube.com/@shikhadmentor8552) [![Codepen](https://img.shields.io/badge/codepen-%230077B5.svg?style=plastic&logo=codepen&logoColor=white)](https://codepen.io/shikhu51197) [![Codesandbox](https://img.shields.io/badge/-codesandbox-FE7A16?style=plastic&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/shikhu51197) [![Hackerrank](https://img.shields.io/badge/hackerrank-%231DA1F2.svg?style=plastic&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sg780060?hr_r=1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikha-gupta-12a2b5199) [![Leetcode](https://img.shields.io/badge/-leetcode-FE7A16?style=plastic&logo=leetcode&logoColor=white)](https://leetcode.com/sg780060) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/shikhag61708689) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plastic&logo=YouTube&logoColor=white)](https://youtube.com/@shikhadmentor8552) [![Codepen](https://img.shields.io/badge/codepen-%230077B5.svg?style=plastic&logo=codepen&logoColor=white)](https://codepen.io/shikhu51197) [![Codesandbox](https://img.shields.io/badge/-codesandbox-FE7A16?style=plastic&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/shikhu51197) [![Hackerrank](https://img.shields.io/badge/hackerrank-%231DA1F2.svg?style=plastic&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sg780060?hr_r=1) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.hackerrank.com/sg780060?hr_r=1)    
+
+
 
 ---
 <h3>⚡Hobbies and interests :</h3>
