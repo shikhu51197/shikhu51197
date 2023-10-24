@@ -1,8 +1,12 @@
 
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/107506646/221663712-814965ad-d3d3-47e9-af63-244b8eef74b3.gif" width="200"/>
-</div>
 
+  
+
+
+![casual-life-3d-girl-sitting-on-stool-with-laptop-1](https://github.com/shikhu51197/shikhu51197/assets/107506646/75a667bc-f79e-45bb-a036-b7bc2a820097)
+</div>
 
 <p align="center">
   <i><a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -37,6 +41,7 @@
 </h5>
 
 ---
+
 ![colors-artificial-intelligence-and-cloud-computing](https://github.com/shikhu51197/shikhu51197/assets/107506646/811af787-59f9-4280-a28b-b643435e0653)
 
 
@@ -87,11 +92,10 @@
 
 3. Bealive in interacting with new people🫱🫲& try to learn from their experience.
 ---
-
-![beam-web-design-program-on-laptop-screen](https://github.com/shikhu51197/shikhu51197/assets/107506646/434e9318-2e87-4645-b401-06dbe2cc0069)
-
 <h2><i>My top projects</i></h2>
 
+
+![beam-web-design-program-on-laptop-screen](https://github.com/shikhu51197/shikhu51197/assets/107506646/434e9318-2e87-4645-b401-06dbe2cc0069)
 
 <p align="left">
     <a href="https://github.com/m-sehrawat/Nike-Clone" target="blank">
