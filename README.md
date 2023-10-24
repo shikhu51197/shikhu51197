@@ -74,10 +74,13 @@ Always eager to learn something new and deal with new tasks and challenges. I ha
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikha-gupta-12a2b5199) [![Leetcode](https://img.shields.io/badge/-leetcode-FE7A16?style=plastic&logo=leetcode&logoColor=white)](https://leetcode.com/sg780060) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/shikhag61708689) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plastic&logo=YouTube&logoColor=white)](https://youtube.com/@shikhadmentor8552) [![Codepen](https://img.shields.io/badge/codepen-ffe135.svg?style=plastic&logo=codepen&logoColor=white)](https://codepen.io/shikhu51197) [![Codesandbox](https://img.shields.io/badge/-codesandbox-8db600?style=plastic&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/shikhu51197) [![Hackerrank](https://img.shields.io/badge/hackerrank-4b5320.svg?style=plastic&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sg780060?hr_r=1) 
 
-###💁‍♀️contact us:-
+## 🔗 💁‍♀️contact us:-
+<br/>
+
     <a title="sg780060@gmail.com" href="mailto:sg780060@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-fbceb1?style=plastic&logo=gmail&logoColor=ff2052" alt="sg780060@gmail.com" />
     </a>
+  
 
 
 
@@ -102,7 +105,7 @@ Always eager to learn something new and deal with new tasks and challenges. I ha
 
 <p align="left">
     <a href="https://github.com/shikhu51197/UsedCarbuyAssign" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Second_Hand_Car&color=000000&logo=Cardekho&logoColor=FFFFFF&label=" alt="Second_Hand_Car-Clone" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Second_Hand_Car&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Second_Hand_Car-Clone" />
     </a>
     <a href="https://github.com/shikhu51197/clonehome" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=git-Netwist_Layout&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="git-Netwist_Layout" />
