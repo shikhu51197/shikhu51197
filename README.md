@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hey!👋I am Shikha Gupta👩‍🎓; I am a 🎓Full-stack%20web%20developer 👨🏻‍💻; I love❤️ to do code👩‍💻 in ®️e🅰️©️t💻 ;🤓 Curious%20to%20learn%20new%20things✨ !&font=Arial%20Code&center=true&width=1000&height=40&font-size=50%&family=Montserrat:wght@300&color=f35f0e.&vCenter=true&size=22&pause=1000"></a></i>
 </p>
 
-![colors-artificial-intelligence-and-cloud-computing](https://github.com/shikhu51197/shikhu51197/assets/107506646/811af787-59f9-4280-a28b-b643435e0653)
+
 
 ---
 
@@ -37,8 +37,7 @@
 </h5>
 
 ---
-<img src="https://icons8.com/illustrations/illustration/beam-web-design-program-on-laptop-screen--animated" />
-
+![colors-artificial-intelligence-and-cloud-computing](https://github.com/shikhu51197/shikhu51197/assets/107506646/811af787-59f9-4280-a28b-b643435e0653)
 
 
 
@@ -89,6 +88,7 @@
 3. Bealive in interacting with new people🫱🫲& try to learn from their experience.
 ---
 
+![beam-web-design-program-on-laptop-screen](https://github.com/shikhu51197/shikhu51197/assets/107506646/434e9318-2e87-4645-b401-06dbe2cc0069)
 
 <h2><i>My top projects</i></h2>
 
