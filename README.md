@@ -99,28 +99,28 @@ Always eager to learn something new and deal with new tasks and challenges. I ha
 
 
 <p align="left">
-    <a href="https://github.com/m-sehrawat/Nike-Clone" target="blank">
+    <a href="https://github.com/shikhu51197/Nike-Clone" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nike Clone&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Nike-Clone" />
     </a>
-    <a href="https://github.com/m-sehrawat/Mini-Store" target="blank">
+    <a href="https://github.com/shikhu51197/Mini-Store" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mini Store&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Mini-Store" />
     </a>
-    <a href="https://github.com/m-sehrawat/Weather-App" target="blank">
+    <a href="https://github.com/shikhu51197/Weather-App" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Weather App&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Weather-App" />
     </a>
-    <a href="https://github.com/m-sehrawat/Translation-App" target="blank">
+    <a href="https://github.com/shikhu51197/Communication_Bridge" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Translation App&color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="Translation-App" />
     </a>
-    <a href="https://github.com/m-sehrawat/Facebook-Clone" target="blank">
+    <a href="https://github.com/shikhu51197/Facebook-Clone" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook Cone&color=1a78f4&logo=facebook&logoColor=FFFFFF&label=" alt="Facebook-Clone" />
     </a>
-    <a href="https://github.com/m-sehrawat/Food-Store" target="blank">
+    <a href="https://github.com/shikhu51197/Food-Store" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Food Store&color=7A1FA2&logo=foodpanda&logoColor=FFFFFF&label=" alt="Adidas-Clone" />
     </a>
-    <a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0" target="blank">
+    <a href="https://github.com/shikhu51197/Lybrate-Website-Clone-Version-2.0" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lybrate Clone&color=E60012&logo=stadia&logoColor=FFFFFF&label=" alt="Lybrate-Clone" />
     </a>
-    <a href="https://github.com/m-sehrawat/Adidas-Clone" target="blank">
+    <a href="https://github.com/shikhu51197/Adidas-Clone" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adidas Clone&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="Adidas-Clone" />
     </a>
 </p>
@@ -155,29 +155,29 @@ Always eager to learn something new and deal with new tasks and challenges. I ha
 
 
 <p>
-    <a href="https://github.com/m-sehrawat/Nike-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Nike-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    <a href="https://github.com/shikhu51197/Nike-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=Nike-Clone&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
     </a>
-    <a href="https://github.com/m-sehrawat/Mini-Store">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Mini-Store&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    <a href="https://github.com/shikhu51197/Mini-Store">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=Mini-Store&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
     </a>
-    <a href="https://github.com/m-sehrawat/Weather-App">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Weather-App&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    <a href="https://github.com/shikhu51197/Weather-App">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=Weather-App&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
     </a>
-    <a href="https://github.com/m-sehrawat/Translation-App">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Translation-App&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    <a href="https://github.com/shikhu51197/Communication_Bridge">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=Communication_Bridge&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
     </a>
-     <a href="https://github.com/m-sehrawat/Facebook-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Facebook-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+     <a href="https://github.com/shikhu51197/UsedCarbuyAssign">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=Facebook-Clone&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
     </a>
-    <a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Lybrate-Website-Clone-Version-2.0&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    <a href="https://github.com/shikhu51197/Lybrate-Website-Clone-Version-2.0">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=Lybrate-Website-Clone-Version-2.0&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
     </a>
-    <a href="https://github.com/m-sehrawat/Food-Store">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Food-Store&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    <a href="https://github.com/shikhu51197/Food-Store">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197t&repo=Food-Store&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
     </a>
-    <a href="https://github.com/m-sehrawat/Adidas-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Adidas-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    <a href="https://github.com/shikhu51197/Adidas-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=Adidas-Clone&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
     </a>
     
 </p>
