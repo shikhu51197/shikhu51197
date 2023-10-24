@@ -161,24 +161,17 @@ Always eager to learn something new and deal with new tasks and challenges. I ha
     <a href="https://github.com/shikhu51197/Mini-Projects">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=Mini-Projects&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
     </a>
-    <a href="https://github.com/shikhu51197/Weather-App">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=Weather-App&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
+    <a href="https://github.com/shikhu51197/layoutassign">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=Mentor-App&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
     </a>
     <a href="https://github.com/shikhu51197/Communication_Bridge">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=Communication_Bridge&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
     </a>
-     <a href="https://github.com/shikhu51197/UsedCarbuyAssign">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=Facebook-Clone&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
+    <a href="https://github.com/shikhu51197/Chanda_kaudi_game">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197t&repo=Khushboo Course App&locale=en&border_radius=0&theme=dark" alt="shikhu51197" /> 
     </a>
-    <a href="https://github.com/shikhu51197/Lybrate-Website-Clone-Version-2.0">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=Lybrate-Website-Clone-Version-2.0&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
-    </a>
-    <a href="https://github.com/shikhu51197/Food-Store">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197t&repo=Khushboo Course App&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
-      
-    </a>
-    <a href="https://github.com/shikhu51197/Adidas-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=Adidas-Clone&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
+    <a href="https://github.com/shikhu51197/iconic-Tab-bar">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=iconic-Tab-bar&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
     </a>
     
 </p>
