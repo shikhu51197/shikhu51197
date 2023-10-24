@@ -99,29 +99,29 @@ Always eager to learn something new and deal with new tasks and challenges. I ha
 
 
 <p align="left">
-    <a href="https://github.com/shikhu51197/Nike-Clone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nike Clone&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Nike-Clone" />
+    <a href="https://github.com/shikhu51197/UsedCarbuyAssign" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Second_Hand_Car&color=000000&logo=Car&logoColor=FFFFFF&label=" alt="Second_Hand_Car-Clone" />
     </a>
-    <a href="https://github.com/shikhu51197/Mini-Store" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mini Store&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Mini-Store" />
+    <a href="https://github.com/shikhu51197/clonehome" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=git-Netwist_Layout&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="git-Netwist_Layout" />
     </a>
-    <a href="https://github.com/shikhu51197/Weather-App" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Weather App&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Weather-App" />
+    <a href="https://github.com/shikhu51197/layoutassign" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mentor App&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="mentor-App" />
     </a>
     <a href="https://github.com/shikhu51197/Communication_Bridge" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Translation App&color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="Translation-App" />
     </a>
-    <a href="https://github.com/shikhu51197/Facebook-Clone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook Cone&color=1a78f4&logo=facebook&logoColor=FFFFFF&label=" alt="Facebook-Clone" />
+    <a href="https://github.com/shikhu51197/Courseassign" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Khushboo Course App&color=1a78f4&logo=facebook&logoColor=FFFFFF&label=" alt="Khushboo Course App" />
     </a>
-    <a href="https://github.com/shikhu51197/Food-Store" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Food Store&color=7A1FA2&logo=foodpanda&logoColor=FFFFFF&label=" alt="Adidas-Clone" />
+    <a href="https://github.com/shikhu51197/Chanda_kaudi_game" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Chanda_kaudi_game&color=7A1FA2&logo=foodpanda&logoColor=FFFFFF&label=" alt="Chanda_kaudi_game" />
     </a>
-    <a href="https://github.com/shikhu51197/Lybrate-Website-Clone-Version-2.0" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lybrate Clone&color=E60012&logo=stadia&logoColor=FFFFFF&label=" alt="Lybrate-Clone" />
+    <a href="https://github.com/shikhu51197/Advance-UI-Projects" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Advance-UI-Projects&color=E60012&logo=stadia&logoColor=FFFFFF&label=" alt="Advance-UI-Projects" />
     </a>
-    <a href="https://github.com/shikhu51197/Adidas-Clone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adidas Clone&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="Adidas-Clone" />
+    <a href="https://github.com/shikhu51197/Mini-Projects" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mini-Projects&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="Mini-Projects" />
     </a>
 </p>
 <br>
@@ -155,11 +155,11 @@ Always eager to learn something new and deal with new tasks and challenges. I ha
 
 
 <p>
-    <a href="https://github.com/shikhu51197/Nike-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=Nike-Clone&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
+    <a href="https://github.com/shikhu51197/UsedCarbuyAssign">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=UsedCarbuyAssign&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
     </a>
-    <a href="https://github.com/shikhu51197/Mini-Store">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=Mini-Store&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
+    <a href="https://github.com/shikhu51197/Mini-Projects">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=Mini-Projects&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
     </a>
     <a href="https://github.com/shikhu51197/Weather-App">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=Weather-App&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
@@ -174,7 +174,8 @@ Always eager to learn something new and deal with new tasks and challenges. I ha
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=Lybrate-Website-Clone-Version-2.0&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
     </a>
     <a href="https://github.com/shikhu51197/Food-Store">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197t&repo=Food-Store&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197t&repo=Khushboo Course App&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
+      
     </a>
     <a href="https://github.com/shikhu51197/Adidas-Clone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=Adidas-Clone&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
