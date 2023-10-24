@@ -1,8 +1,5 @@
 
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/107506646/221663712-814965ad-d3d3-47e9-af63-244b8eef74b3.gif" width="200"/>
-
-  
+<div id="header" align="center" width="200">
 
 
 ![casual-life-3d-girl-sitting-on-stool-with-laptop-1](https://github.com/shikhu51197/shikhu51197/assets/107506646/75a667bc-f79e-45bb-a036-b7bc2a820097)
