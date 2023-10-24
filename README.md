@@ -77,10 +77,11 @@ Always eager to learn something new and deal with new tasks and challenges. I ha
 ## 🔗 💁‍♀️contact us:-
 <br/>
 
+<p>
     <a title="sg780060@gmail.com" href="mailto:sg780060@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-fbceb1?style=plastic&logo=gmail&logoColor=ff2052" alt="sg780060@gmail.com" />
     </a>
-  
+  </p>
 
 
 
