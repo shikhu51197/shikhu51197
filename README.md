@@ -13,17 +13,18 @@
 
 <h2>❤✨About Me</h2>
 <h3>
-    <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
+    <i>- I'm a full-stack web developer skilled in the MERN stack who focuses on writing clean, elegant, and efficient code.</i>
 </h3>
 
 <h3>
-    <i>- Currently working at SkillTank as a Full Stack Web developer </i>
+    <i>- Currently working at SkillTank as a full-stack web developer</i>
 </h3>
 
-<h3 align="left">
-  A passionate & Enthusiastic 🤓 Full Stack Web Developer & learned MERN Stack at Masai School, Bangalore. Always eager to learn something new and deal with new tasks and challenges. I have done my Bechlor's of Engineering in Mechanical Engineering from Shahdol, Madhya Pradesh, India.</h3>
+<h4 align="left">
+  A passionate and enthusiastic 🤓 Full Stack Web Developer & learned MERN Stack at Masai School, Bangalore. Always eager to learn something new and deal with new tasks and challenges. I have done my Bachelor of Engineering in Mechanical Engineering from Shahdol, Madhya Pradesh, India.</h4>
 
 <h4> I learned Full Stack Web Development from Masai School🏫(India's first Skill building School "Driven by Outcomes, Fuelled by Ambitions.")</h4>
+
 <h5>
 💻 1200+ Hours of Practical Coding,
 ⌛100+ Hours of Soft Skill Development,
@@ -35,7 +36,7 @@
 
 ---
 
-![](https://media.tenor.com/BlDlOlCeR34AAAAC/web-design-company-net.gif)
+
 
 
 
@@ -66,7 +67,13 @@
 
 <h3 align="left">🌐 Socials:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikha-gupta-12a2b5199) [![Leetcode](https://img.shields.io/badge/-leetcode-FE7A16?style=plastic&logo=leetcode&logoColor=white)](https://leetcode.com/sg780060) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/shikhag61708689) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plastic&logo=YouTube&logoColor=white)](https://youtube.com/@shikhadmentor8552) [![Codepen](https://img.shields.io/badge/codepen-%230077B5.svg?style=plastic&logo=codepen&logoColor=white)](https://codepen.io/shikhu51197) [![Codesandbox](https://img.shields.io/badge/-codesandbox-FE7A16?style=plastic&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/shikhu51197) [![Hackerrank](https://img.shields.io/badge/hackerrank-%231DA1F2.svg?style=plastic&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sg780060?hr_r=1) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikha-gupta-12a2b5199) [![Leetcode](https://img.shields.io/badge/-leetcode-FE7A16?style=plastic&logo=leetcode&logoColor=white)](https://leetcode.com/sg780060) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/shikhag61708689) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plastic&logo=YouTube&logoColor=white)](https://youtube.com/@shikhadmentor8552) [![Codepen](https://img.shields.io/badge/codepen-%230077B5.svg?style=plastic&logo=codepen&logoColor=white)](https://codepen.io/shikhu51197) [![Codesandbox](https://img.shields.io/badge/-codesandbox-FE7A16?style=plastic&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/shikhu51197) [![Hackerrank](https://img.shields.io/badge/hackerrank-%231DA1F2.svg?style=plastic&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sg780060?hr_r=1) 
+
+<p align="left">
+    <a title="sg780060@gmail.com" href="mailto:sg780060@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-4285f4 34a853 fbbc04?style=for-the-badge&logo=gmail&logoColor=white" alt="sg780060@gmail.com" />
+    </a>
+</p>
 
 
 
@@ -116,18 +123,9 @@
 ---
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)  ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 	 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=plastic&logo=babel&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
-![cypress](https://img.shields.io/badge/cypress-%234ea94b.svg?style=plastic&logo=cypress&logoColor=black)   ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-%23007ACC.svg?style=plastic&logo=visualstudiocode&logoColor=white) ![Github](https://img.shields.io/badge/Github-%23000000.svg?style=plastic&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23563D7C.svg?style=plastic&logo=figma&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=tailwindcss&logoColor=white) ![NextJs](https://img.shields.io/badge/nextjs-%23E34F26.svg?style=plastic&logo=nextjs&logoColor=white) ![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=plastic&logo=mui&logoColor=%23F7DF1E) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Chakra](https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=plastic&logo=chakraui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)  ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=plastic&logo=babel&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
+![cypress](https://img.shields.io/badge/cypress-%234ea94b.svg?style=plastic&logo=cypress&logoColor=black)   ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-%23007ACC.svg?style=plastic&logo=visualstudiocode&logoColor=white) ![Github](https://img.shields.io/badge/Github-%23000000.svg?style=plastic&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23563D7C.svg?style=plastic&logo=figma&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white) ![NextJs](https://img.shields.io/badge/next-js-%23E34F26.svg?style=plastic&logo=next-js&logoColor=white) ![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=plastic&logo=mui&logoColor=white) ![Git](https://img.shields.io/badge/Git-f44d27?style=plastic&logo=git&logoColor=white) 
 
-<p>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
-    <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
-    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
-</p>
-<br>
 
 ---
 # 📊 GitHub Stats:
@@ -137,16 +135,10 @@
 <br></br>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shikhu51197&theme=2077" width="100%" />
 
-
-
 ---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shikhu51197&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
----
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
----
 
 
 
@@ -181,6 +173,15 @@
     </a>
     
 </p>
+
+
+
+
+---
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+---
 
 
 
