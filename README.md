@@ -163,22 +163,12 @@ Always eager to learn something new and deal with new tasks and challenges. I ha
     <a href="https://github.com/shikhu51197/Mini-Projects">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=Mini-Projects&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
     </a>
-    <a href="https://github.com/shikhu51197/layoutassign">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=Layoutassign&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
-    </a>
     <a href="https://github.com/shikhu51197/Communication_Bridge">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=Communication_Bridge&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
     </a>
     <a href="https://github.com/shikhu51197/Chanda_kaudi_game">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=Chanda_kaudi_game&locale=en&border_radius=0&theme=dark" alt="shikhu51197" /> 
     </a>
-    <a href="https://github.com/shikhu51197/iconic-Tab-bar">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=iconic-Tab-bar&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
-    </a>
-    <a href="https://github.com/shikhu51197/Courseassign" >
-        <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=Course-assign&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
-    </a>
-    
 </p>
 
 
