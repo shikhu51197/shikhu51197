@@ -21,7 +21,7 @@
 </h3>
 
 <h3>
-    <i>- Currently working at SkillTank as a full-stack web developer</i>
+    <i>- Currently working as a full-stack web developer</i>
 </h3>
 
 <h4 align="left">
