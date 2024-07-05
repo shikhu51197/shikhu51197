@@ -96,43 +96,6 @@ Always eager to learn something new and deal with new tasks and challenges. I ha
 3. Bealive in interacting with new people🫱🫲& try to learn from their experience.
 
 
-   
----
-<h2><i>My top projects</i></h2>
-
-
-![beam-web-design-program-on-laptop-screen](https://github.com/shikhu51197/shikhu51197/assets/107506646/434e9318-2e87-4645-b401-06dbe2cc0069)
-
-
-<p align="left">
-    <a href="https://github.com/shikhu51197/UsedCarbuyAssign" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Second_Hand_Car&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Second_Hand_Car-Clone" />
-    </a>
-    <a href="https://github.com/shikhu51197/clonehome" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=git-Netwist_Layout&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="git-Netwist_Layout" />
-    </a>
-    <a href="https://github.com/shikhu51197/layoutassign" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mentor App&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="mentor-App" />
-    </a>
-    <a href="https://github.com/shikhu51197/Communication_Bridge" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Translation App&color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="Translation-App" />
-    </a>
-    <a href="https://github.com/shikhu51197/Courseassign" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Khushboo Course App&color=1a78f4&logo=facebook&logoColor=FFFFFF&label=" alt="Khushboo Course App" />
-    </a>
-    <a href="https://github.com/shikhu51197/Chanda_kaudi_game" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Chanda_kaudi_game&color=7A1FA2&logo=foodpanda&logoColor=FFFFFF&label=" alt="Chanda_kaudi_game" />
-    </a>
-    <a href="https://github.com/shikhu51197/Advance-UI-Projects" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Advance-UI-Projects&color=E60012&logo=stadia&logoColor=FFFFFF&label=" alt="Advance-UI-Projects" />
-    </a>
-    <a href="https://github.com/shikhu51197/Mini-Projects" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mini-Projects&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="Mini-Projects" />
-    </a>
-</p>
-<br>
-
-
 ---
 
 # 💻 Tech Stack:
@@ -152,31 +115,6 @@ Always eager to learn something new and deal with new tasks and challenges. I ha
 ---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shikhu51197&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-
-
-<h2><i>Top Repositories</i></h2>
-
-
-<p>
-    <a href="https://github.com/shikhu51197/UsedCarbuyAssign">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=UsedCarbuyAssign&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
-    </a>
-    <a href="https://github.com/shikhu51197/Mini-Projects">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=Mini-Projects&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
-    </a>
-    <a href="https://github.com/shikhu51197/Communication_Bridge">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=Communication_Bridge&locale=en&border_radius=0&theme=dark" alt="shikhu51197" />
-    </a>
-    <a href="https://github.com/shikhu51197/Chanda_kaudi_game">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&repo=Chanda_kaudi_game&locale=en&border_radius=0&theme=dark" alt="shikhu51197" /> 
-    </a>
-</p>
-
-
-
 
 ---
 ### ✍️ Random Dev Quote
