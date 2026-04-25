@@ -1,14 +1,10 @@
 
 <div id="header" align="center" width="200">
-
-<img src ="https://ouch-cdn2.icons8.com/RvRNYhp4R3LJjkx0AARG6NnU9S2FZwERDdL6Q3r3w2c/rs:fit:368:244/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvODEv/ZmU5Y2Q5OTgtZDAz/My00MTI1LTliNTQt/MmRlNDBjMDIyZDQ5/LnBuZw.png"/>
-
 ---
 </div>
 
 <p align="center">
-  <i><a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hey!👋I am Shikha Gupta👩‍🎓; I am a 🎓Full-stack%20web%20developer 👨🏻‍💻; I love❤️ to do code👩‍💻 in ®️e🅰️©️t💻 ;🤓 Curious%20to%20learn%20new%20things✨ !&font=Arial%20Code&center=true&width=1000&height=40&font-size=50%&family=Montserrat:wght@300&color=ff033e.&vCenter=true&size=22&pause=1000"></a></i>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hey!👋I am Shikha Gupta👩‍🎓; I am a 🎓Full-stack%20web%20developer 👨🏻‍💻; I love❤️ to do code👩‍💻 in ®️e🅰️©️t💻 ;🤓 Curious%20to%20learn%20new%20things✨ !&font=Arial%20Code&center=true&width=1000&height=40&font-size=50%&family=Montserrat:wght@300&color=ff033e.&vCenter=true&size=22&pause=1000">
 </p>
 
 
