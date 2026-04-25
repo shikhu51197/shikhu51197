@@ -1,7 +1,9 @@
 ---
 
 <p align="center">
-    Hey!👋I am Shikha Gupta👩‍🎓; I am a 🎓Full-stack web Developer 👨🏻‍💻; I love❤️ to do code👩‍💻 in ®️e🅰️©️t💻 
+    Hey!👋I am Shikha Gupta👩‍🎓; </p>
+  <p align="center"> I am a 🎓Full-stack web Developer 👨🏻‍💻; </p>
+   <p align="center"> I love❤️ to do code👩‍💻 in ®️e🅰️©️t💻 
 </p>
 
 ---
