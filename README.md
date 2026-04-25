@@ -1,13 +1,8 @@
-
-<div id="header" align="center" width="200">
 ---
-</div>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hey!👋I am Shikha Gupta👩‍🎓; I am a 🎓Full-stack%20web%20developer 👨🏻‍💻; I love❤️ to do code👩‍💻 in ®️e🅰️©️t💻 ;🤓 Curious%20to%20learn%20new%20things✨ !&font=Arial%20Code&center=true&width=1000&height=40&font-size=50%&family=Montserrat:wght@300&color=ff033e.&vCenter=true&size=22&pause=1000">
+    Hey!👋I am Shikha Gupta👩‍🎓; I am a 🎓Full-stack web Developer 👨🏻‍💻; I love❤️ to do code👩‍💻 in ®️e🅰️©️t💻 
 </p>
-
-
 
 ---
 
