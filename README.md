@@ -1,7 +1,7 @@
 ---
 
 <h1 align="center">Shikha Gupta</h1>
-<h3 align="center">Senior Full Stack Developer | Node.js • Next.js • MERN • Django</h3>
+<h3 align="center">Senior Software Engineer | Node.js • Next.js • MERN • Django</h3>
 
 <p align="center">
 Building scalable SaaS platforms, real-time applications, marketplace systems, and production-grade digital products.
@@ -11,7 +11,7 @@ Building scalable SaaS platforms, real-time applications, marketplace systems, a
 
 ## 🚀 About Me
 
-I’m a Senior Full Stack Developer with 3+ years of experience building scalable web applications, real-time systems, and product-focused platforms across gaming, edtech, and marketplace ecosystems.
+I’m a Senior Software Engineer with 3+ years of experience building scalable web applications, real-time systems, and product-focused platforms across gaming, edtech, and marketplace ecosystems.
 
 ### Core Strengths:
 - Scalable Full Stack Product Development  
